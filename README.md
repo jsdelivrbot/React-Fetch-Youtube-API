@@ -1,6 +1,6 @@
-###React-Fetch-Youtube-API###
+React-Fetch-Youtube-API
 
-###Getting Started###
+Getting Started
 
 ```
 	> git clone https://github.com/ahmademran/React-Fetch-Youtube-API.git
